@@ -11,6 +11,7 @@ O objetivo foi demonstrar conhecimentos em:
 * Testes de API
 * Arquitetura Page Object Model (POM)
 * Boas práticas de organização e Clean Code
+
 Site utilizado para os testes:
 
 https://automationexercise.com
